@@ -2,7 +2,7 @@
 
 A simple rust-based CLI that can read images from a zip file, resize them and save the resulting images in a local folder.
 
-This is a simple project that was built to explore the crates [zip](https://crates.io/crates/zip) and [image](https://crates.io/crates/image). The built of this simple tool was [live-streamed on Twitch](https://twitch.tv/loige) (and you can find the recording on [YouTube](https://youtube.com/loige)).
+This is a simple project that was built to explore the crates [zip](https://crates.io/crates/zip) and [image](https://crates.io/crates/image).
 
 If you need to generate a sample zip file with a bunch of images you can use [unsample.net](https://unsample.net/).
 
